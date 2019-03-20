@@ -52,8 +52,8 @@ function formatName(user) {
 }
 
 const user = {
-  firstName: 'Kylian',
-  lastName: 'Mbappé'
+  firstName: 'Eden',
+  lastName: 'Hazard'
 };
 
 const element = (
